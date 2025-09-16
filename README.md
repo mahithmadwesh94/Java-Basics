@@ -1,6 +1,6 @@
 # Java Basics — Refreshed
 
-This repo contains notes, examples, and code exercises covering the fundamentals of Java, based on the *“Java Programming for Beginners – Full Course”* video. The idea is to have a handy reference and sample code as you learn or revise.
+This repo contains notes, examples, and code exercises covering the fundamentals of Java, based on the *“Java Programming for Beginners – Full Course”* video from FreeCodeCamp. The idea is to have a handy reference and sample code as you learn or revise.
 
 ---
 
