@@ -95,21 +95,6 @@ Java is a high-level, object-oriented programming language. It’s platform-inde
 
 ---
 
-## Sample Code / Exercises
-
-Here are some basic hands-on examples to try out:
-
-1. Hello World  
-2. Calculator – perform basic arithmetic  
-3. FizzBuzz  
-4. Class & Object example – e.g. `Person` class with name, age, and a method like `introduce()`  
-5. Inheritance example – `Animal` → `Dog`, `Cat`  
-6. Interface example – e.g. `Movable`, `Runnable`  
-
-You’ll find these sample code files in the [`/examples`] folder.
-
----
-
 ## Resources
 
 - [Java Official Documentation](https://docs.oracle.com/en/java/)  
